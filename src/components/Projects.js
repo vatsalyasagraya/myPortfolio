@@ -18,7 +18,7 @@ const Projects = () => {
       },
     {
         title: "TextUtils",
-        desc: "A MERN stack project based on theme Vocal for local which provide a platform for the local traders to get them self-registered where they can put their own local product which could be later accessed by the ecommerce stores for selling.",
+        desc: "extutils gives you a way to analyze your text quickly and efficiently. Be it word count, character count, remove extra spaces. TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text.",
         image: textutils,
         githubLink: "https://github.com/vatsalyasagraya/TextUtils",
         techStack: "JavaScript",
