@@ -18,7 +18,7 @@ const Projects = () => {
       },
     {
         title: "TextUtils",
-        desc: "extutils gives you a way to analyze your text quickly and efficiently. Be it word count, character count, remove extra spaces. TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text.",
+        desc: "Textutils gives you a way to analyze your text quickly and efficiently. Be it word count, character count, remove extra spaces. TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text.",
         image: textutils,
         githubLink: "https://github.com/vatsalyasagraya/TextUtils",
         techStack: "JavaScript",
