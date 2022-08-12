@@ -9,13 +9,13 @@ import textutils from "../images/textutils.png";
 const Projects = () => {
   const Projects = [
     
-    {
-      title: "MovieBuffs",
-        desc: "A website which provides you information about every movie and web-series. It has different sections which segregates the movies accordingly. You can search movies, watch trailer and can read brief information about the movie.",
-        image: moviebuffs,
-        githubLink: "https://movie-buffs-vatsalyasagraya.vercel.app/",
-        techStack: "JavaScript",
-      },
+//     {
+//       title: "MovieBuffs",
+//         desc: "A website which provides you information about every movie and web-series. It has different sections which segregates the movies accordingly. You can search movies, watch trailer and can read brief information about the movie.",
+//         image: moviebuffs,
+//         githubLink: "https://movie-buffs-vatsalyasagraya.vercel.app/",
+//         techStack: "JavaScript",
+//       },
     {
         title: "TextUtils",
         desc: "Textutils gives you a way to analyze your text quickly and efficiently. Be it word count, character count, remove extra spaces. TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text.",
